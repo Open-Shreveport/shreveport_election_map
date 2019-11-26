@@ -1,5 +1,8 @@
-# Shreveport Election Map
-Map of Shreveport's Mayoral and City Council Candidates by District
+# Shreveport District Maps
+Modified version of Keith Hanson's  Map of Shreveport's Mayoral and City Council Candidates by District
+
+https://github.com/KeithHanson/shreveport_election_map
+without the overlays for election
 
 ## This uses a few technologies:
 
